@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration file
+.env
+
+# Log files
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS generated files
+Thumbs.db
+
+# Yarn integrity file
+.yarn-integrity
+
+# npm lock files
+package-lock.json
+
+# Local development config
+config.js
+
+# Ignore test result directories
+coverage/
+.nyc_output/
