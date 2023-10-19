@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Description of your SAAS application goes here. Describe briefly what your application does, its key features, and how users can benefit from it.
 
 ## Table of Contents
 
@@ -50,10 +49,6 @@ Description of your SAAS application goes here. Describe briefly what your appli
 - Nodemailer (for email communication)
 - (Add any other technologies/frameworks you used)
 
-## Getting Started
-
-Describe here how someone can get started with your project. Include any prerequisites and installation steps.
-
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
@@ -61,14 +56,6 @@ Describe here how someone can get started with your project. Include any prerequ
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file and add the necessary environment variables.
 5. Start the server: `node server.js`
-
-## Usage
-
-Provide instructions on how to use your application. Include examples of API endpoints, WebSocket events, and email notification triggers if applicable.
-
-## API Documentation
-
-Document your API endpoints here. Include details such as route, method, request parameters, request body, and response format.
 
 ### Example Endpoint
 
